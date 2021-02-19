@@ -76,7 +76,7 @@ body {
 
 .btn {
     background-color: var(--line-border-fill);
-    columns: #fff;
+    color: #fff;
     border: 0;
     cursor: pointer;
     font-family: inherit;
